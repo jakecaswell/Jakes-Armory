@@ -1,0 +1,24 @@
+body {
+    background-color:cornflowerblue;
+}
+
+header {
+    background: white;
+    padding: 10px;
+}
+
+.col-md-3 p {
+    max-width: 250px;
+    background-color:black;
+    color:white;
+}
+
+.col-md-8 p {
+    max-width:780px;
+    background-color:black;
+    color:white;
+}
+/*
+.container:not(:last-child) {
+    border-bottom: 2px solid black;
+}*/
